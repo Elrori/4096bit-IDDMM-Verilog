@@ -1,0 +1,197 @@
+# Reading C:/Users/fpga/Documents/EXE/intel_quartus/modelsim_ase/tcl/vsim/pref.tcl
+# do do.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:53:45 on Jul 16,2020
+# vlog -reportprogress 300 ../../src/mm_iddmm_pe.v ../../src/mm_iddmm_pe_tb.v ../../src/mm_iddmm_sp.v ../../src/mm_iddmm_sp_tb.v ../../src/mm_iddmm_sub.v ../../src/mm_iddmm_sub_tb.v ../../src/mm_r2mm.v ../../src/mm_r2mm_2n.v ../../src/mm_tb.v ../../src/common/simple_bidir_ram.v ../../src/common/simple_fifo.v ../../src/common/simple_mult.v ../../src/common/simple_ram.v ../../src/common/simple_rom.v ../../src/common/simple_single_rom.v 
+# -- Compiling module mm_iddmm_pe
+# -- Compiling module mm_iddmm_pe_tb
+# -- Compiling module mm_iddmm_sp
+# -- Compiling module mm_iddmm_sp_tb
+# -- Compiling module mm_iddmm_sub
+# ** Error: ../../src/mm_iddmm_sub.v(42): (vlib-2730) Undefined variable: 'nop_val'.
+# ** Error: ../../src/mm_iddmm_sub.v(43): (vlib-2730) Undefined variable: 'sub_val'.
+# ** Error: ../../src/mm_iddmm_sub.v(43): (vlib-2730) Undefined variable: 'bf0'.
+# ** Error (suppressible): ../../src/mm_iddmm_sub.v(49): (vlib-2388) 'bf0' already declared in this scope (mm_iddmm_sub).
+# ** Error (suppressible): ../../src/mm_iddmm_sub.v(50): (vlib-2388) 'sub_val' already declared in this scope (mm_iddmm_sub).
+# ** Error (suppressible): ../../src/mm_iddmm_sub.v(50): (vlib-2388) 'nop_val' already declared in this scope (mm_iddmm_sub).
+# -- Compiling module mm_iddmm_sub_tb
+# -- Compiling module mm_r2mm
+# -- Compiling module mm_r2mm_2n
+# -- Compiling module mm_tb
+# -- Compiling module simple_bidir_ram
+# ** Error: ../../src/common/simple_bidir_ram.v(30): (vlib-2730) Undefined variable: 'widthad'.
+# ** Error (suppressible): ../../src/common/simple_bidir_ram.v(30): (vlib-2388) 'address_a' already declared in this scope (simple_bidir_ram).
+# ** Error: ../../src/common/simple_bidir_ram.v(32): (vlib-2730) Undefined variable: 'width'.
+# ** Error (suppressible): ../../src/common/simple_bidir_ram.v(32): (vlib-2388) 'data_a' already declared in this scope (simple_bidir_ram).
+# ** Error: ../../src/common/simple_bidir_ram.v(38): 'width' already declared in this scope.
+# ** Error: ../../src/common/simple_bidir_ram.v(39): 'widthad' already declared in this scope.
+# ** Error: ../../src/common/simple_bidir_ram.v(30): Identifier must be declared with a port mode: address_a.
+# ** Error: ../../src/common/simple_bidir_ram.v(32): Identifier must be declared with a port mode: data_a.
+# -- Compiling module simple_fifo
+# -- Compiling module simple_mult
+# ** Error: ../../src/common/simple_mult.v(29): (vlib-2730) Undefined variable: 'widtha'.
+# ** Error (suppressible): ../../src/common/simple_mult.v(29): (vlib-2388) 'a' already declared in this scope (simple_mult).
+# ** Error: ../../src/common/simple_mult.v(30): (vlib-2730) Undefined variable: 'widthb'.
+# ** Error (suppressible): ../../src/common/simple_mult.v(30): (vlib-2388) 'b' already declared in this scope (simple_mult).
+# ** Error: ../../src/common/simple_mult.v(31): (vlib-2730) Undefined variable: 'widthp'.
+# ** Error (suppressible): ../../src/common/simple_mult.v(32): (vlib-2388) 'out' already declared in this scope (simple_mult).
+# ** Error: ../../src/common/simple_mult.v(36): 'widtha' already declared in this scope.
+# ** Error: ../../src/common/simple_mult.v(37): 'widthb' already declared in this scope.
+# ** Error: ../../src/common/simple_mult.v(38): 'widthp' already declared in this scope.
+# ** Error: ../../src/common/simple_mult.v(29): Identifier must be declared with a port mode: a.
+# ** Error: ../../src/common/simple_mult.v(30): Identifier must be declared with a port mode: b.
+# ** Error: ../../src/common/simple_mult.v(31): Identifier must be declared with a port mode: out.
+# -- Compiling module simple_ram
+# ** Error: ../../src/common/simple_ram.v(32): (vlib-2730) Undefined variable: 'widthad'.
+# ** Error (suppressible): ../../src/common/simple_ram.v(32): (vlib-2388) 'wraddress' already declared in this scope (simple_ram).
+# ** Error: ../../src/common/simple_ram.v(34): (vlib-2730) Undefined variable: 'width'.
+# ** Error (suppressible): ../../src/common/simple_ram.v(34): (vlib-2388) 'data' already declared in this scope (simple_ram).
+# ** Error: ../../src/common/simple_ram.v(39): 'width' already declared in this scope.
+# ** Error: ../../src/common/simple_ram.v(40): 'widthad' already declared in this scope.
+# ** Error: ../../src/common/simple_ram.v(32): Identifier must be declared with a port mode: wraddress.
+# ** Error: ../../src/common/simple_ram.v(34): Identifier must be declared with a port mode: data.
+# -- Compiling module simple_rom
+# ** Error: ../../src/common/simple_rom.v(30): (vlib-2730) Undefined variable: 'widthad'.
+# ** Error (suppressible): ../../src/common/simple_rom.v(30): (vlib-2388) 'addr_a' already declared in this scope (simple_rom).
+# ** Error: ../../src/common/simple_rom.v(31): (vlib-2730) Undefined variable: 'width'.
+# ** Error (suppressible): ../../src/common/simple_rom.v(31): (vlib-2388) 'q_a' already declared in this scope (simple_rom).
+# ** Error: ../../src/common/simple_rom.v(37): 'width' already declared in this scope.
+# ** Error: ../../src/common/simple_rom.v(38): 'widthad' already declared in this scope.
+# ** Error: ../../src/common/simple_rom.v(30): Identifier must be declared with a port mode: addr_a.
+# ** Error: ../../src/common/simple_rom.v(31): Identifier must be declared with a port mode: q_a.
+# -- Compiling module simple_single_rom
+# ** Error: ../../src/common/simple_single_rom.v(30): (vlib-2730) Undefined variable: 'widthad'.
+# ** Error (suppressible): ../../src/common/simple_single_rom.v(30): (vlib-2388) 'addr' already declared in this scope (simple_single_rom).
+# ** Error: ../../src/common/simple_single_rom.v(31): (vlib-2730) Undefined variable: 'width'.
+# ** Error (suppressible): ../../src/common/simple_single_rom.v(32): (vlib-2388) 'q' already declared in this scope (simple_single_rom).
+# ** Error: ../../src/common/simple_single_rom.v(34): 'width' already declared in this scope.
+# ** Error: ../../src/common/simple_single_rom.v(35): 'widthad' already declared in this scope.
+# ** Error: ../../src/common/simple_single_rom.v(30): Identifier must be declared with a port mode: addr.
+# ** Error: ../../src/common/simple_single_rom.v(31): Identifier must be declared with a port mode: q.
+# End time: 16:53:45 on Jul 16,2020, Elapsed time: 0:00:00
+# Errors: 50, Warnings: 0
+# ** Error: C:/Users/fpga/Documents/EXE/intel_quartus/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./do.do line 2
+# C:/Users/fpga/Documents/EXE/intel_quartus/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog ../../src/*.v ../../src/common/*.v"
+do do.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:54:57 on Jul 16,2020
+# vlog -reportprogress 300 ../../src/mm_iddmm_pe.v ../../src/mm_iddmm_pe_tb.v ../../src/mm_iddmm_sp.v ../../src/mm_iddmm_sp_tb.v ../../src/mm_iddmm_sub.v ../../src/mm_iddmm_sub_tb.v ../../src/mm_r2mm.v ../../src/mm_r2mm_2n.v ../../src/mm_tb.v ../../src/common/simple_bidir_ram.v ../../src/common/simple_fifo.v ../../src/common/simple_mult.v ../../src/common/simple_ram.v ../../src/common/simple_rom.v ../../src/common/simple_single_rom.v 
+# -- Compiling module mm_iddmm_pe
+# -- Compiling module mm_iddmm_pe_tb
+# -- Compiling module mm_iddmm_sp
+# -- Compiling module mm_iddmm_sp_tb
+# -- Compiling module mm_iddmm_sub
+# -- Compiling module mm_iddmm_sub_tb
+# -- Compiling module mm_r2mm
+# -- Compiling module mm_r2mm_2n
+# -- Compiling module mm_tb
+# -- Compiling module simple_bidir_ram
+# ** Error: ../../src/common/simple_bidir_ram.v(30): (vlog-2730) Undefined variable: 'widthad'.
+# ** Error (suppressible): ../../src/common/simple_bidir_ram.v(30): (vlog-2388) 'address_a' already declared in this scope (simple_bidir_ram).
+# ** Error: ../../src/common/simple_bidir_ram.v(32): (vlog-2730) Undefined variable: 'width'.
+# ** Error (suppressible): ../../src/common/simple_bidir_ram.v(32): (vlog-2388) 'data_a' already declared in this scope (simple_bidir_ram).
+# ** Error: ../../src/common/simple_bidir_ram.v(38): 'width' already declared in this scope.
+# ** Error: ../../src/common/simple_bidir_ram.v(39): 'widthad' already declared in this scope.
+# ** Error: ../../src/common/simple_bidir_ram.v(30): Identifier must be declared with a port mode: address_a.
+# ** Error: ../../src/common/simple_bidir_ram.v(32): Identifier must be declared with a port mode: data_a.
+# -- Compiling module simple_fifo
+# -- Compiling module simple_mult
+# ** Error: ../../src/common/simple_mult.v(29): (vlog-2730) Undefined variable: 'widtha'.
+# ** Error (suppressible): ../../src/common/simple_mult.v(29): (vlog-2388) 'a' already declared in this scope (simple_mult).
+# ** Error: ../../src/common/simple_mult.v(30): (vlog-2730) Undefined variable: 'widthb'.
+# ** Error (suppressible): ../../src/common/simple_mult.v(30): (vlog-2388) 'b' already declared in this scope (simple_mult).
+# ** Error: ../../src/common/simple_mult.v(31): (vlog-2730) Undefined variable: 'widthp'.
+# ** Error (suppressible): ../../src/common/simple_mult.v(32): (vlog-2388) 'out' already declared in this scope (simple_mult).
+# ** Error: ../../src/common/simple_mult.v(36): 'widtha' already declared in this scope.
+# ** Error: ../../src/common/simple_mult.v(37): 'widthb' already declared in this scope.
+# ** Error: ../../src/common/simple_mult.v(38): 'widthp' already declared in this scope.
+# ** Error: ../../src/common/simple_mult.v(29): Identifier must be declared with a port mode: a.
+# ** Error: ../../src/common/simple_mult.v(30): Identifier must be declared with a port mode: b.
+# ** Error: ../../src/common/simple_mult.v(31): Identifier must be declared with a port mode: out.
+# -- Compiling module simple_ram
+# ** Error: ../../src/common/simple_ram.v(32): (vlog-2730) Undefined variable: 'widthad'.
+# ** Error (suppressible): ../../src/common/simple_ram.v(32): (vlog-2388) 'wraddress' already declared in this scope (simple_ram).
+# ** Error: ../../src/common/simple_ram.v(34): (vlog-2730) Undefined variable: 'width'.
+# ** Error (suppressible): ../../src/common/simple_ram.v(34): (vlog-2388) 'data' already declared in this scope (simple_ram).
+# ** Error: ../../src/common/simple_ram.v(39): 'width' already declared in this scope.
+# ** Error: ../../src/common/simple_ram.v(40): 'widthad' already declared in this scope.
+# ** Error: ../../src/common/simple_ram.v(32): Identifier must be declared with a port mode: wraddress.
+# ** Error: ../../src/common/simple_ram.v(34): Identifier must be declared with a port mode: data.
+# -- Compiling module simple_rom
+# ** Error: ../../src/common/simple_rom.v(30): (vlog-2730) Undefined variable: 'widthad'.
+# ** Error (suppressible): ../../src/common/simple_rom.v(30): (vlog-2388) 'addr_a' already declared in this scope (simple_rom).
+# ** Error: ../../src/common/simple_rom.v(31): (vlog-2730) Undefined variable: 'width'.
+# ** Error (suppressible): ../../src/common/simple_rom.v(31): (vlog-2388) 'q_a' already declared in this scope (simple_rom).
+# ** Error: ../../src/common/simple_rom.v(37): 'width' already declared in this scope.
+# ** Error: ../../src/common/simple_rom.v(38): 'widthad' already declared in this scope.
+# ** Error: ../../src/common/simple_rom.v(30): Identifier must be declared with a port mode: addr_a.
+# ** Error: ../../src/common/simple_rom.v(31): Identifier must be declared with a port mode: q_a.
+# -- Compiling module simple_single_rom
+# ** Error: ../../src/common/simple_single_rom.v(30): (vlog-2730) Undefined variable: 'widthad'.
+# ** Error (suppressible): ../../src/common/simple_single_rom.v(30): (vlog-2388) 'addr' already declared in this scope (simple_single_rom).
+# ** Error: ../../src/common/simple_single_rom.v(31): (vlog-2730) Undefined variable: 'width'.
+# ** Error (suppressible): ../../src/common/simple_single_rom.v(32): (vlog-2388) 'q' already declared in this scope (simple_single_rom).
+# ** Error: ../../src/common/simple_single_rom.v(34): 'width' already declared in this scope.
+# ** Error: ../../src/common/simple_single_rom.v(35): 'widthad' already declared in this scope.
+# ** Error: ../../src/common/simple_single_rom.v(30): Identifier must be declared with a port mode: addr.
+# ** Error: ../../src/common/simple_single_rom.v(31): Identifier must be declared with a port mode: q.
+# End time: 16:54:57 on Jul 16,2020, Elapsed time: 0:00:00
+# Errors: 44, Warnings: 0
+# ** Error: C:/Users/fpga/Documents/EXE/intel_quartus/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./do.do line 2
+# C:/Users/fpga/Documents/EXE/intel_quartus/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog ../../src/*.v ../../src/common/*.v"
+do do.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:56:11 on Jul 16,2020
+# vlog -reportprogress 300 ../../src/mm_iddmm_pe.v ../../src/mm_iddmm_pe_tb.v ../../src/mm_iddmm_sp.v ../../src/mm_iddmm_sp_tb.v ../../src/mm_iddmm_sub.v ../../src/mm_iddmm_sub_tb.v ../../src/mm_r2mm.v ../../src/mm_r2mm_2n.v ../../src/mm_tb.v ../../src/common/simple_ram.v 
+# -- Compiling module mm_iddmm_pe
+# -- Compiling module mm_iddmm_pe_tb
+# -- Compiling module mm_iddmm_sp
+# -- Compiling module mm_iddmm_sp_tb
+# -- Compiling module mm_iddmm_sub
+# -- Compiling module mm_iddmm_sub_tb
+# -- Compiling module mm_r2mm
+# -- Compiling module mm_r2mm_2n
+# -- Compiling module mm_tb
+# -- Compiling module simple_ram
+# 
+# Top level modules:
+# 	mm_iddmm_pe_tb
+# 	mm_iddmm_sp_tb
+# 	mm_iddmm_sub_tb
+# 	mm_tb
+# End time: 16:56:11 on Jul 16,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim mm_iddmm_sp_tb 
+# Start time: 16:56:11 on Jul 16,2020
+# Loading work.mm_iddmm_sp_tb
+# Loading work.mm_iddmm_sp
+# Loading work.simple_ram
+# Loading work.mm_iddmm_pe
+# Loading work.mm_iddmm_sub
+# ** Warning: (vsim-3015) ../../src/mm_iddmm_sp.v(214): [PCDPC] - Port size (5) does not match connection size (32) for port 'wraddress'. The port definition is at: ../../src/common/simple_ram.v(37).
+#    Time: 0 ps  Iteration: 0  Instance: /mm_iddmm_sp_tb/mm_iddmm_sp_0/simple_ram_a File: ../../src/common/simple_ram.v
+# hexadecimal
+# [mm_iddmm_sp.v]:
+# K= 128 bits
+# N=  32 groups
+# Operands width= 4096 bits
+# ---------------------------------------------
+# [BIG value]:
+# X:
+# 0xXXXXXXXXXxXX0XXXxXXXXX0X0XX00XX0XXXXXXXXXxXX0XXXxXXXXX0X0XX00XX0XXXXXXXXXxXX0XXXxXXXXX0X0XX00XX0XXXXXXXXXxXX0XXXxXXXXX0X0XX00XX0XXXXXXXXXxXX0XXXxXXXXX0X0XX00XX0XXXXXXXXXxXX0XXXxXXXXX0X0XX00XX0XXXXXXXXXxXX0XXXxXXXXX0X0XX00XX0XXXXXXXXXxXX0XXXxXXXXX0X0XX00XX0XXXXXXXXXxXX0XXXxXXXXX0X0XX00XX0XXXXXXXXXxXX0XXXxXXXXX0X0XX00XX0XXXXXXXXXxXX0XXXxXXXXX0X0XX00XX0XXXXXXXXXxXX0XXXxXXXXX0X0XX00XX0XXXXXXXXXxXX0XXXxXXXXX0X0XX00XX0XXXXXXXXXxXX0XXXxXXXXX0X0XX00XX0XXXXXXXXXxXX0XXXxXXXXX0X0XX00XX0XXXXXXXXXxXX0XXXxXXXXX0X0XX00XX0XXXXXXXXXxXX0XXXxXXXXX0X0XX00XX0XXXXXXXXXxXX0XXXxXXXXX0X0XX00XX0XXXXXXXXXxXX0XXXxXXXXX0X0XX00XX0XXXXXXXXXxXX0XXXxXXXXX0X0XX00XX0XXXXXXXXXxXX0XXXxXXXXX0X0XX00XX0XXXXXXXXXxXX0XXXxXXXXX0X0XX00XX0XXXXXXXXXxXX0XXXxXXXXX0X0XX00XX0XXXXXXXXXxXX0XXXxXXXXX0X0XX00XX0XXXXXXXXXxXX0XXXxXXXXX0X0XX00XX0XXXXXXXXXxXX0XXXxXXXXX0X0XX00XX0XXXXXXXXXxXX0XXXxXXXXX0X0XX00XX0XXXXXXXXXxXX0XXXxXXXXX0X0XX00XX0XXXXXXXXXxXX0XXXxXXXXX0X0XX00XX0XXXXXXXXXxXX0XXXxXXXXX0X0XX00XX0XXXXXXXXXxXX0XXXxXXXXX0X0XX00XX0XXXXXXXXXxXX0XXXxXXXXX0X0XX00XX0
+# Y:
+# 0xXX0XXXXXXX0XXXXXXxXX0XXX0XxxXXXXXX0XXXXXXX0XXXXXXxXX0XXX0XxxXXXXXX0XXXXXXX0XXXXXXxXX0XXX0XxxXXXXXX0XXXXXXX0XXXXXXxXX0XXX0XxxXXXXXX0XXXXXXX0XXXXXXxXX0XXX0XxxXXXXXX0XXXXXXX0XXXXXXxXX0XXX0XxxXXXXXX0XXXXXXX0XXXXXXxXX0XXX0XxxXXXXXX0XXXXXXX0XXXXXXxXX0XXX0XxxXXXXXX0XXXXXXX0XXXXXXxXX0XXX0XxxXXXXXX0XXXXXXX0XXXXXXxXX0XXX0XxxXXXXXX0XXXXXXX0XXXXXXxXX0XXX0XxxXXXXXX0XXXXXXX0XXXXXXxXX0XXX0XxxXXXXXX0XXXXXXX0XXXXXXxXX0XXX0XxxXXXXXX0XXXXXXX0XXXXXXxXX0XXX0XxxXXXXXX0XXXXXXX0XXXXXXxXX0XXX0XxxXXXXXX0XXXXXXX0XXXXXXxXX0XXX0XxxXXXXXX0XXXXXXX0XXXXXXxXX0XXX0XxxXXXXXX0XXXXXXX0XXXXXXxXX0XXX0XxxXXXXXX0XXXXXXX0XXXXXXxXX0XXX0XxxXXXXXX0XXXXXXX0XXXXXXxXX0XXX0XxxXXXXXX0XXXXXXX0XXXXXXxXX0XXX0XxxXXXXXX0XXXXXXX0XXXXXXxXX0XXX0XxxXXXXXX0XXXXXXX0XXXXXXxXX0XXX0XxxXXXXXX0XXXXXXX0XXXXXXxXX0XXX0XxxXXXXXX0XXXXXXX0XXXXXXxXX0XXX0XxxXXXXXX0XXXXXXX0XXXXXXxXX0XXX0XxxXXXXXX0XXXXXXX0XXXXXXxXX0XXX0XxxXXXXXX0XXXXXXX0XXXXXXxXX0XXX0XxxXXXXXX0XXXXXXX0XXXXXXxXX0XXX0XxxXXXXXX0XXXXXXX0XXXXXXxXX0XXX0XxxXXXXXX0XXXXXXX0XXXXXXxXX0XXX0XxxXXXXXX0XXXXXXX0XXXXXXxXX0XXX0XxxXXXX
+# M:
+# 0xXXxXXXx0XXXXXXXXX0XXXXX0XXXXXXXXXXxXXXx0XXXXXXXXX0XXXXX0XXXXXXXXXXxXXXx0XXXXXXXXX0XXXXX0XXXXXXXXXXxXXXx0XXXXXXXXX0XXXXX0XXXXXXXXXXxXXXx0XXXXXXXXX0XXXXX0XXXXXXXXXXxXXXx0XXXXXXXXX0XXXXX0XXXXXXXXXXxXXXx0XXXXXXXXX0XXXXX0XXXXXXXXXXxXXXx0XXXXXXXXX0XXXXX0XXXXXXXXXXxXXXx0XXXXXXXXX0XXXXX0XXXXXXXXXXxXXXx0XXXXXXXXX0XXXXX0XXXXXXXXXXxXXXx0XXXXXXXXX0XXXXX0XXXXXXXXXXxXXXx0XXXXXXXXX0XXXXX0XXXXXXXXXXxXXXx0XXXXXXXXX0XXXXX0XXXXXXXXXXxXXXx0XXXXXXXXX0XXXXX0XXXXXXXXXXxXXXx0XXXXXXXXX0XXXXX0XXXXXXXXXXxXXXx0XXXXXXXXX0XXXXX0XXXXXXXXXXxXXXx0XXXXXXXXX0XXXXX0XXXXXXXXXXxXXXx0XXXXXXXXX0XXXXX0XXXXXXXXXXxXXXx0XXXXXXXXX0XXXXX0XXXXXXXXXXxXXXx0XXXXXXXXX0XXXXX0XXXXXXXXXXxXXXx0XXXXXXXXX0XXXXX0XXXXXXXXXXxXXXx0XXXXXXXXX0XXXXX0XXXXXXXXXXxXXXx0XXXXXXXXX0XXXXX0XXXXXXXXXXxXXXx0XXXXXXXXX0XXXXX0XXXXXXXXXXxXXXx0XXXXXXXXX0XXXXX0XXXXXXXXXXxXXXx0XXXXXXXXX0XXXXX0XXXXXXXXXXxXXXx0XXXXXXXXX0XXXXX0XXXXXXXXXXxXXXx0XXXXXXXXX0XXXXX0XXXXXXXXXXxXXXx0XXXXXXXXX0XXXXX0XXXXXXXXXXxXXXx0XXXXXXXXX0XXXXX0XXXXXXXXXXxXXXx0XXXXXXXXX0XXXXX0XXXXXXXXXXxXXXx0XXXXXXXXX0XXXXX0XXXXXXXX
+# A:
+# 0x0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+# End time: 16:56:49 on Jul 16,2020, Elapsed time: 0:00:38
+# Errors: 0, Warnings: 1

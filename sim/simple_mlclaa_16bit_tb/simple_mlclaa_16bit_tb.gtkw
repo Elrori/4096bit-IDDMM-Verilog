@@ -1,0 +1,39 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Mon Jul 27 12:21:18 2020
+[*]
+[dumpfile] "C:\Users\fpga\Desktop\Montgomery\sim\simple_mlclaa_16bit_tb\simple_mlclaa_16bit_tb.vcd"
+[dumpfile_mtime] "Mon Jul 27 12:20:38 2020"
+[dumpfile_size] 37609
+[savefile] "C:\Users\fpga\Desktop\Montgomery\sim\simple_mlclaa_16bit_tb\simple_mlclaa_16bit_tb.gtkw"
+[timestart] 451000
+[size] 1920 1017
+[pos] -1 -1
+*-15.000000 575000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 197
+[signals_width] 134
+[sst_expanded] 1
+[sst_vpaned_height] 300
+@28
+simple_mlclaa_16bit_tb.cin
+simple_mlclaa_16bit_tb.clk
+simple_mlclaa_16bit_tb.cout
+simple_mlclaa_16bit_tb.cout_
+[color] 3
+simple_mlclaa_16bit_tb.cin
+@22
+[color] 3
+simple_mlclaa_16bit_tb.a[15:0]
+[color] 3
+simple_mlclaa_16bit_tb.b[15:0]
+@23
+[color] 2
+simple_mlclaa_16bit_tb.sum[15:0]
+@29
+[color] 2
+simple_mlclaa_16bit_tb.cout
+@22
+simple_mlclaa_16bit_tb.sim_ret[16:0]
+simple_mlclaa_16bit_tb.sum_ret[16:0]
+[pattern_trace] 1
+[pattern_trace] 0

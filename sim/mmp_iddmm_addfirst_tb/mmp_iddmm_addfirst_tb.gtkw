@@ -1,0 +1,35 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Fri Jul 31 10:55:28 2020
+[*]
+[dumpfile] "C:\Users\fpga\Desktop\Montgomery\sim\mmp_iddmm_addfirst_tb\mmp_iddmm_addfirst_tb.vcd"
+[dumpfile_mtime] "Fri Jul 31 10:54:46 2020"
+[dumpfile_size] 1372829
+[savefile] "C:\Users\fpga\Desktop\Montgomery\sim\mmp_iddmm_addfirst_tb\mmp_iddmm_addfirst_tb.gtkw"
+[timestart] 322750
+[size] 1920 1017
+[pos] -1 -1
+*-12.000000 325000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] mmp_iddmm_addfirst_tb.
+[treeopen] mmp_iddmm_addfirst_tb.u_mmp_iddmm_addfirst.
+[treeopen] mmp_iddmm_addfirst_tb.u_mmp_iddmm_addfirst.pipe2.
+[treeopen] mmp_iddmm_addfirst_tb.u_mmp_iddmm_addfirst.pipe2.mmp_iddmm_addfirst_3_2.
+[sst_width] 329
+[signals_width] 150
+[sst_expanded] 1
+[sst_vpaned_height] 300
+@22
+mmp_iddmm_addfirst_tb.a_in[255:0]
+mmp_iddmm_addfirst_tb.b_in[127:0]
+@28
+mmp_iddmm_addfirst_tb.c_in
+mmp_iddmm_addfirst_tb.clk
+@22
+mmp_iddmm_addfirst_tb.d_out[255:0]
+[color] 3
+mmp_iddmm_addfirst_tb.sim_ret[257:0]
+@23
+[color] 3
+mmp_iddmm_addfirst_tb.u_mmp_iddmm_addfirst.pipe2.mmp_iddmm_addfirst_3_2.simple_padder256_3_2.full_sum[257:0]
+[pattern_trace] 1
+[pattern_trace] 0

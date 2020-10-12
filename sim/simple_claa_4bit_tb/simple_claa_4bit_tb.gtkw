@@ -1,0 +1,48 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Mon Jul 27 09:01:42 2020
+[*]
+[dumpfile] "C:\Users\fpga\Desktop\Montgomery\sim\simple_mlclaa_16bit_tb\simple_claa_4bit_tb.vcd"
+[dumpfile_mtime] "Mon Jul 27 09:01:20 2020"
+[dumpfile_size] 12250
+[savefile] "C:\Users\fpga\Desktop\Montgomery\sim\simple_mlclaa_16bit_tb\simple_claa_4bit_tb.gtkw"
+[timestart] 0
+[size] 1920 1017
+[pos] -1 -1
+*-15.000000 7980 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] simple_claa_4bit_tb.
+[sst_width] 197
+[signals_width] 126
+[sst_expanded] 1
+[sst_vpaned_height] 300
+@28
+simple_claa_4bit_tb.clk
+simple_claa_4bit_tb.cin
+@c00024
+[color] 3
+simple_claa_4bit_tb.a[3:0]
+@28
+[color] 3
+(0)simple_claa_4bit_tb.a[3:0]
+[color] 3
+(1)simple_claa_4bit_tb.a[3:0]
+[color] 3
+(2)simple_claa_4bit_tb.a[3:0]
+[color] 3
+(3)simple_claa_4bit_tb.a[3:0]
+@1401200
+-group_end
+@24
+[color] 3
+simple_claa_4bit_tb.b[3:0]
+[color] 2
+simple_claa_4bit_tb.sum[3:0]
+[color] 2
+simple_claa_4bit_tb.cout
+@25
+[color] 7
+simple_claa_4bit_tb.sim_sum[3:0]
+[color] 7
+simple_claa_4bit_tb.sim_cout
+[pattern_trace] 1
+[pattern_trace] 0

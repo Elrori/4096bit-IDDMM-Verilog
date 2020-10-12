@@ -1,0 +1,35 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Mon Jul 27 09:14:21 2020
+[*]
+[dumpfile] "C:\Users\fpga\Desktop\Montgomery\sim\simple_cclaa_x4bit_tb\simple_cclaa_x4bit_tb.vcd"
+[dumpfile_mtime] "Mon Jul 27 09:14:02 2020"
+[dumpfile_size] 23624
+[savefile] "C:\Users\fpga\Desktop\Montgomery\sim\simple_cclaa_x4bit_tb\simple_cclaa_x4bit_tb.gtkw"
+[timestart] 0
+[size] 1920 1017
+[pos] -1 -1
+*-15.000000 62200 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 197
+[signals_width] 126
+[sst_expanded] 1
+[sst_vpaned_height] 300
+@28
+simple_cclaa_x4bit_tb.clk
+simple_cclaa_x4bit_tb.ci
+@22
+simple_cclaa_x4bit_tb.ain[7:0]
+simple_cclaa_x4bit_tb.bin[7:0]
+[color] 3
+simple_cclaa_x4bit_tb.sum[7:0]
+@28
+[color] 3
+simple_cclaa_x4bit_tb.co
+@22
+[color] 2
+simple_cclaa_x4bit_tb.sim_sum[7:0]
+@29
+[color] 2
+simple_cclaa_x4bit_tb.sim_cout
+[pattern_trace] 1
+[pattern_trace] 0

@@ -1,0 +1,86 @@
+[*]
+[*] GTKWave Analyzer v3.3.71 (w)1999-2016 BSI
+[*] Tue Aug 11 08:11:30 2020
+[*]
+[dumpfile] "C:\Users\ELRORI\Desktop\Montgomery\sim\mm_iddmm_sub_tb\wave.vcd"
+[dumpfile_mtime] "Tue Aug 11 08:11:05 2020"
+[dumpfile_size] 27227
+[savefile] "C:\Users\ELRORI\Desktop\Montgomery\sim\mm_iddmm_sub_tb\wave.gtkw"
+[timestart] 921800
+[size] 2560 1361
+[pos] -1 -1
+*-15.000000 1045000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] mm_iddmm_sub_tb.
+[sst_width] 239
+[signals_width] 170
+[sst_expanded] 1
+[sst_vpaned_height] 424
+@28
+mm_iddmm_sub_tb.mm_iddmm_sub_0.rst_n
+mm_iddmm_sub_tb.mm_iddmm_sub_0.clk
+@24
+mm_iddmm_sub_tb.mm_iddmm_sub_0.addr_a[4:0]
+mm_iddmm_sub_tb.mm_iddmm_sub_0.addr_m[4:0]
+@22
+mm_iddmm_sub_tb.mm_iddmm_sub_0.an[7:0]
+mm_iddmm_sub_tb.mm_iddmm_sub_0.aj[7:0]
+mm_iddmm_sub_tb.mm_iddmm_sub_0.mj[7:0]
+mm_iddmm_sub_tb.mm_iddmm_sub_0.st[3:0]
+@28
+mm_iddmm_sub_tb.mm_iddmm_sub_0.task_req
+mm_iddmm_sub_tb.mm_iddmm_sub_0.task_end
+mm_iddmm_sub_tb.mm_iddmm_sub_0.res_val
+@22
+mm_iddmm_sub_tb.mm_iddmm_sub_0.res[7:0]
+@c00024
+mm_iddmm_sub_tb.mm_iddmm_sub_0.clra_addr[4:0]
+@28
+(0)mm_iddmm_sub_tb.mm_iddmm_sub_0.clra_addr[4:0]
+(1)mm_iddmm_sub_tb.mm_iddmm_sub_0.clra_addr[4:0]
+(2)mm_iddmm_sub_tb.mm_iddmm_sub_0.clra_addr[4:0]
+(3)mm_iddmm_sub_tb.mm_iddmm_sub_0.clra_addr[4:0]
+(4)mm_iddmm_sub_tb.mm_iddmm_sub_0.clra_addr[4:0]
+@1401200
+-group_end
+@28
+mm_iddmm_sub_tb.mm_iddmm_sub_0.clra_mem
+mm_iddmm_sub_tb.mm_iddmm_sub_0.clra_wren
+@22
+mm_iddmm_sub_tb.mm_iddmm_sub_0.st[3:0]
+@28
+mm_iddmm_sub_tb.mm_iddmm_sub_0.odd
+[color] 2
+mm_iddmm_sub_tb.mm_iddmm_sub_0.bf1
+@29
+[color] 7
+mm_iddmm_sub_tb.mm_iddmm_sub_0.sub_ena
+@22
+[color] 3
+mm_iddmm_sub_tb.mm_iddmm_sub_0.aj[7:0]
+@28
+[color] 3
+mm_iddmm_sub_tb.mm_iddmm_sub_0.carry
+@22
+[color] 3
+mm_iddmm_sub_tb.mm_iddmm_sub_0.mj[7:0]
+@28
+[color] 3
+mm_iddmm_sub_tb.mm_iddmm_sub_0.plus1
+@22
+[color] 6
+mm_iddmm_sub_tb.mm_iddmm_sub_0.bf0[7:0]
+@28
+mm_iddmm_sub_tb.simple_ram_A.clk
+@22
+mm_iddmm_sub_tb.simple_ram_A.rdaddress[4:0]
+mm_iddmm_sub_tb.simple_ram_A.q[7:0]
+@28
+mm_iddmm_sub_tb.simple_ram_A.wren
+@22
+mm_iddmm_sub_tb.simple_ram_A.data[7:0]
+@28
+mm_iddmm_sub_tb.mm_iddmm_sub_0.clra_wren
+mm_iddmm_sub_tb.mm_iddmm_sub_0.clra_mem
+mm_iddmm_sub_tb.mm_iddmm_sub_0.sub_val
+[pattern_trace] 1
+[pattern_trace] 0

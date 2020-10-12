@@ -1,0 +1,29 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Mon Aug 03 08:00:46 2020
+[*]
+[dumpfile] "C:\Users\fpga\Desktop\Montgomery\sim\mmp_iddmm_addend_tb\mmp_iddmm_addend_tb.vcd"
+[dumpfile_mtime] "Mon Aug 03 08:00:34 2020"
+[dumpfile_size] 900465
+[savefile] "C:\Users\fpga\Desktop\Montgomery\sim\mmp_iddmm_addend_tb\mmp_iddmm_addend_tb.gtkw"
+[timestart] 0
+[size] 1920 1017
+[pos] -1 -1
+*-15.000000 5000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 197
+[signals_width] 142
+[sst_expanded] 1
+[sst_vpaned_height] 300
+@28
+mmp_iddmm_addend_tb.clk
+mmp_iddmm_addend_tb.clk2
+@22
+mmp_iddmm_addend_tb.a_in[128:0]
+mmp_iddmm_addend_tb.b_in[255:0]
+mmp_iddmm_addend_tb.c_in[255:0]
+[color] 3
+mmp_iddmm_addend_tb.d_out[256:0]
+[color] 3
+mmp_iddmm_addend_tb.sim_ret[257:0]
+[pattern_trace] 1
+[pattern_trace] 0

@@ -1,0 +1,61 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Tue Jul 21 08:10:39 2020
+[*]
+[dumpfile] "C:\Users\fpga\Desktop\Montgomery\sim\mmp_iddmm_pe_tb\wave.vcd"
+[dumpfile_mtime] "Tue Jul 21 08:07:27 2020"
+[dumpfile_size] 23391652
+[savefile] "C:\Users\fpga\Desktop\Montgomery\sim\mmp_iddmm_pe_tb\wave.gtkw"
+[timestart] 12277900
+[size] 1920 1017
+[pos] -1 -1
+*-14.654320 12355000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] mmp_iddmm_pe_tb.
+[treeopen] mmp_iddmm_pe_tb.mmp_iddmm_pe_0.
+[sst_width] 239
+[signals_width] 280
+[sst_expanded] 1
+[sst_vpaned_height] 297
+@24
+mmp_iddmm_pe_tb.addr[5:0]
+mmp_iddmm_pe_tb.wr_a_ena
+@28
+mmp_iddmm_pe_tb.mmp_iddmm_pe_0.clk
+@24
+[color] 2
+mmp_iddmm_pe_tb.j00
+[color] 2
+mmp_iddmm_pe_tb.i[4:0]
+[color] 2
+mmp_iddmm_pe_tb.j[5:0]
+@22
+mmp_iddmm_pe_tb.mmp_iddmm_pe_0.xj[127:0]
+mmp_iddmm_pe_tb.mmp_iddmm_pe_0.yi[127:0]
+mmp_iddmm_pe_tb.mmp_iddmm_pe_0.aj[127:0]
+mmp_iddmm_pe_tb.mmp_iddmm_pe_0.aj_[127:0]
+mmp_iddmm_pe_tb.mmp_iddmm_pe_0.s[255:0]
+mmp_iddmm_pe_tb.mmp_iddmm_pe_0.m1s[127:0]
+mmp_iddmm_pe_tb.mmp_iddmm_pe_0.q[127:0]
+mmp_iddmm_pe_tb.mmp_iddmm_pe_0.mj_[127:0]
+[color] 3
+mmp_iddmm_pe_tb.mmp_iddmm_pe_0.r[255:0]
+[color] 3
+mmp_iddmm_pe_tb.mmp_iddmm_pe_0.s_[255:0]
+[color] 3
+mmp_iddmm_pe_tb.mmp_iddmm_pe_0.c_pre[128:0]
+mmp_iddmm_pe_tb.mmp_iddmm_pe_0.u_c[256:0]
+[color] 6
+mmp_iddmm_pe_tb.mmp_iddmm_pe_0.uj[127:0]
+@28
+mmp_iddmm_pe_tb.wr_a_ena
+@22
+mmp_iddmm_pe_tb.mx[0].mmm[127:0]
+mmp_iddmm_pe_tb.mx[1].mmm[127:0]
+mmp_iddmm_pe_tb.mx[2].mmm[127:0]
+mmp_iddmm_pe_tb.mx[3].mmm[127:0]
+mmp_iddmm_pe_tb.mx[30].mmm[127:0]
+mmp_iddmm_pe_tb.mx[31].mmm[127:0]
+@23
+mmp_iddmm_pe_tb.mx[32].mmm[127:0]
+[pattern_trace] 1
+[pattern_trace] 0

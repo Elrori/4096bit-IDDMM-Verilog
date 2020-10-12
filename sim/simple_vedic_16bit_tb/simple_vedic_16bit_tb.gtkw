@@ -1,0 +1,25 @@
+[*]
+[*] GTKWave Analyzer v3.3.71 (w)1999-2016 BSI
+[*] Mon Aug 10 02:27:36 2020
+[*]
+[dumpfile] "C:\Users\ELRORI\Desktop\Montgomery\sim\simple_vedic_16bit_tb\simple_vedic_16bit_tb.vcd"
+[dumpfile_mtime] "Mon Aug 10 02:27:10 2020"
+[dumpfile_size] 814623
+[savefile] "C:\Users\ELRORI\Desktop\Montgomery\sim\simple_vedic_16bit_tb\simple_vedic_16bit_tb.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-14.000000 20000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 239
+[signals_width] 170
+[sst_expanded] 1
+[sst_vpaned_height] 146
+@28
+simple_vedic_16bit_tb.clk
+@24
+simple_vedic_16bit_tb.a[15:0]
+simple_vedic_16bit_tb.b[15:0]
+simple_vedic_16bit_tb.s[31:0]
+simple_vedic_16bit_tb.sim_ret[31:0]
+[pattern_trace] 1
+[pattern_trace] 0

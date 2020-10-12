@@ -1,0 +1,96 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Thu Jul 16 08:18:21 2020
+[*]
+[dumpfile] "C:\Users\fpga\Desktop\Montgomery\sim\mm_iddmm_sp_tb\wave.vcd"
+[dumpfile_mtime] "Thu Jul 16 08:16:39 2020"
+[dumpfile_size] 422440
+[savefile] "C:\Users\fpga\Desktop\Montgomery\sim\mm_iddmm_sp_tb\wave.gtkw"
+[timestart] 50500
+[size] 1920 1017
+[pos] -1 -1
+*-16.584631 435000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] mm_iddmm_sp_tb.
+[treeopen] mm_iddmm_sp_tb.mm_iddmm_sp_0.
+[sst_width] 244
+[signals_width] 174
+[sst_expanded] 1
+[sst_vpaned_height] 301
+@22
+mm_iddmm_sp_tb.mm_iddmm_sp_0.mm_iddmm_pe_0.aj[127:0]
+mm_iddmm_sp_tb.mm_iddmm_sp_0.mm_iddmm_pe_0.c[128:0]
+mm_iddmm_sp_tb.mm_iddmm_sp_0.mm_iddmm_pe_0.c_pre[128:0]
+@28
+mm_iddmm_sp_tb.mm_iddmm_sp_0.mm_iddmm_pe_0.c_pre_clr
+mm_iddmm_sp_tb.mm_iddmm_sp_0.mm_iddmm_pe_0.carry
+mm_iddmm_sp_tb.mm_iddmm_sp_0.mm_iddmm_pe_0.carry_clr
+mm_iddmm_sp_tb.mm_iddmm_sp_0.mm_iddmm_pe_0.carry_ena
+mm_iddmm_sp_tb.mm_iddmm_sp_0.mm_iddmm_pe_0.clk
+@22
+mm_iddmm_sp_tb.mm_iddmm_sp_0.mm_iddmm_pe_0.i[4:0]
+@28
+mm_iddmm_sp_tb.mm_iddmm_sp_0.mm_iddmm_pe_0.j00
+@22
+mm_iddmm_sp_tb.mm_iddmm_sp_0.mm_iddmm_pe_0.j[5:0]
+mm_iddmm_sp_tb.mm_iddmm_sp_0.mm_iddmm_pe_0.m1[127:0]
+mm_iddmm_sp_tb.mm_iddmm_sp_0.mm_iddmm_pe_0.m1s[127:0]
+mm_iddmm_sp_tb.mm_iddmm_sp_0.mm_iddmm_pe_0.mj[127:0]
+mm_iddmm_sp_tb.mm_iddmm_sp_0.mm_iddmm_pe_0.q[127:0]
+@28
+mm_iddmm_sp_tb.mm_iddmm_sp_0.mm_iddmm_pe_0.q_ena
+@22
+mm_iddmm_sp_tb.mm_iddmm_sp_0.mm_iddmm_pe_0.r[255:0]
+@28
+mm_iddmm_sp_tb.mm_iddmm_sp_0.mm_iddmm_pe_0.rst_n
+@22
+mm_iddmm_sp_tb.mm_iddmm_sp_0.mm_iddmm_pe_0.s[255:0]
+mm_iddmm_sp_tb.mm_iddmm_sp_0.mm_iddmm_pe_0.u_c[256:0]
+mm_iddmm_sp_tb.mm_iddmm_sp_0.mm_iddmm_pe_0.uj[127:0]
+[color] 2
+mm_iddmm_sp_tb.mm_iddmm_sp_0.mm_iddmm_pe_0.xj[127:0]
+mm_iddmm_sp_tb.mm_iddmm_sp_0.mm_iddmm_pe_0.xy[255:0]
+[color] 2
+mm_iddmm_sp_tb.mm_iddmm_sp_0.mm_iddmm_pe_0.yi[127:0]
+@24
+mm_iddmm_sp_tb.mm_iddmm_sp_0.simple_ram_x.rdaddress[4:0]
+@22
+mm_iddmm_sp_tb.mm_iddmm_sp_0.simple_ram_x.q[127:0]
+mm_iddmm_sp_tb.big_a[4095:0]
+mm_iddmm_sp_tb.big_m[4095:0]
+mm_iddmm_sp_tb.big_number[4095:0]
+mm_iddmm_sp_tb.big_x[4095:0]
+mm_iddmm_sp_tb.big_y[4095:0]
+@28
+mm_iddmm_sp_tb.clk
+@420
+mm_iddmm_sp_tb.i
+@22
+mm_iddmm_sp_tb.res[127:0]
+@28
+mm_iddmm_sp_tb.res_val
+mm_iddmm_sp_tb.rst_n
+mm_iddmm_sp_tb.task_end
+mm_iddmm_sp_tb.task_req
+mm_iddmm_sp_tb.wr_ena
+@24
+mm_iddmm_sp_tb.wr_addr[4:0]
+@22
+mm_iddmm_sp_tb.wr_m1[127:0]
+mm_iddmm_sp_tb.wr_m[127:0]
+mm_iddmm_sp_tb.wr_x[127:0]
+mm_iddmm_sp_tb.wr_y[127:0]
+@28
+mm_iddmm_sp_tb.mm_iddmm_sp_0.simple_ram_x.clk
+mm_iddmm_sp_tb.mm_iddmm_sp_0.simple_ram_x.wren
+mm_iddmm_sp_tb.start_wr_ram
+@24
+mm_iddmm_sp_tb.mm_iddmm_sp_0.simple_ram_x.wraddress[4:0]
+@22
+mm_iddmm_sp_tb.mm_iddmm_sp_0.simple_ram_x.data[127:0]
+mm_iddmm_sp_tb.mm_iddmm_sp_0.simple_ram_x.rdaddress[4:0]
+@23
+mm_iddmm_sp_tb.st[3:0]
+@22
+mm_iddmm_sp_tb.mm_iddmm_sp_0.simple_ram_x.q[127:0]
+[pattern_trace] 1
+[pattern_trace] 0
