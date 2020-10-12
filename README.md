@@ -1,8 +1,8 @@
-*华为企业命题3 ：4096bit 蒙哥马利域模乘算法*
+#华为企业命题3 ：4096bit 蒙哥马利域模乘算法
 
-**IDDMM-MMP 4096bit 蒙哥马利域模乘算法说明**
+##IDDMM-MMP 4096bit 蒙哥马利域模乘算法说明
 
-**快速仿真说明**
+###快速仿真说明
 
 1. 预先安装```iverilog```或```modelsim```仿真器，确保仿真器在系统环境目录内。
 1. 执行顶层仿真 ```./sim/mmp_iddmm_sp_tb/run_iverilog.bat``` 或 ```./sim/mmp_iddmm_sp_tb/run_modelsim.bat```。
@@ -10,7 +10,7 @@
 1. 使用**vivado 2017.4**打开```./vivado-mmp```内的vivado工程，时序情况可在该工程内查看，xdc内默认时钟304MHz。
 1. 赛题要求的输出文档在```./output-doc```内。所有源码包括python模型在```./src```内
 
-**指标速览**
+###指标速览
 
 1. 4096bit蒙哥马利域模乘算法
 1. 纯verilog描述
@@ -21,12 +21,12 @@
 1. 等效RAM用量 16Kbit
 1. 可进行m固定的随机验证
 
-**Authors**
+###Authors
 
 2020, HDU E-M-T GROUP 
 helrori2011 helrori2011@gmail.com 
 lihehe muyexinya@163.com
 
-**License**
+###License
 
 MIT
