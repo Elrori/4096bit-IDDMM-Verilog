@@ -8,7 +8,7 @@
 1. 执行顶层仿真 ```./sim/mmp_iddmm_sp_tb/run_iverilog.bat``` 或 ```./sim/mmp_iddmm_sp_tb/run_modelsim.bat```。
 1. 可在run_iverilog.bat内或do.do内定义宏```_VIEW_WAVEFORM_```用来查看单次波形，否则testbench将会进行随机测试，比较IDDMM-MMP和R2MM算法的一致性。
 1. 使用**vivado 2017.4**打开```./vivado-mmp```内的vivado工程，时序情况可在该工程内查看，xdc内默认时钟304MHz。
-1. 赛题要求的输出文档在```./output-doc```内。所有源码包括python模型在```./src```内
+1. 说明文档在```./output-doc```内。所有源码包括python模型在```./src```内
 
 ### 指标速览
 
