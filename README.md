@@ -22,6 +22,10 @@
 1. 可进行m固定的随机验证
 1. 算法返回 x * y * R-1 mod m, R 需要预先计算
 
+### 参考
+
+https://youtu.be/cbGB__V8MNk
+
 ### Authors
 
 2020, HDU E-M-T GROUP 
